@@ -3,7 +3,7 @@ description: "Audu Abass - Developer, Consultant, and Operations Expert"
 author: "Audu Abass"
 url: "https://yourusername.github.io/portfolio"
 baseurl: "/portfolio"
-paginate: 5
+paginate: 3
 avatar: "/assets/images/avatar.jpg"
 favicon: "/assets/images/favicon.ico"
 social:
