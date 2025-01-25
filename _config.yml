@@ -6,13 +6,11 @@ baseurl: "/portfolio"
 paginate: 5
 avatar: "/assets/images/avatar.jpg"
 favicon: "/assets/images/favicon.ico"
-
 social:
   twitter: "https://x.com/Memaselfu"
   linkedin: "https://linkedin.com/in/audu-abass-1121a395/"
   github: "https://github.com/Xafinz"
   email: "mailto:auduabass2015@gmail.com"
-
 navigation:
   - title: "Home"
     url: "/"
@@ -22,10 +20,8 @@ navigation:
     url: "/about/"
   - title: "Contact"
     url: "/contact/"
-
 plugins:
   - jekyll-seo-tag
   - jekyll-feed
-
 google_analytics: "UA-XXXXX-Y"
 markdown: kramdown
